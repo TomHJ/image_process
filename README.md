@@ -1,4 +1,4 @@
-# ISP related process
+# Some ISP related process
 parse_rgb444_yuv444_nv12_nv21.py:convert 8bit/10bit RGB444,YUV444,NV12,NV21 to PNG by opencv, ffmpeg
 
 raw_crop.py:raw cropped
