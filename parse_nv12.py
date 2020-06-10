@@ -1,3 +1,4 @@
+# try to futher check nv12 under the hood
 import numpy as np
 
 path=r"sample.nv12"
