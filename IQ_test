@@ -1,7 +1,7 @@
 # Camera-IQ-test
 learn camera IQ test with Imatest
 
-# My understand about optiocal density: the relations between density and exposure
+# My understand about optical density: the relations between density and exposure
 density = –log10(reflected light/incident light)
         =-(log10(reflected light)-log10(incident light))
         =-log10(reflected light)+log10(incident light)
