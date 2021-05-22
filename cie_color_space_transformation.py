@@ -40,7 +40,7 @@ def sRGB_rgb2xyz(inputColor,matrix):
            value = ( ( value + 0.055 ) / 1.055 ) ** 2.4 # gamma decode
        else :
            value = value / 12.92
-       RGB[num,0] = value * 1005
+       RGB[num,0] = value * 100
        num = num + 1
    XYZ=np.round(np.matmul(matrix,RGB),decimals=4)
 
