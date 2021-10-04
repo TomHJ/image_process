@@ -1,6 +1,8 @@
 # Some ISP related process
 
 parse_nv12.py: check how 8bit nv12 was stored in memory
+
+
                y bytes number: width* height
                u bytes number: width* height//4
                v bytes number: width* height//4
